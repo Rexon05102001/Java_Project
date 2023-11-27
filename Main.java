@@ -40,7 +40,7 @@ public class Main {
             System.out.println("2. View Reservation");
             System.out.println("3. Cancel Reservation");
             System.out.println("4. Exit");
-            System.out.print("Enter your choice: ");
+            System.out.print("Choose an Option: ");
 
             int choice = scanner.nextInt();
             scanner.nextLine(); // Consume newline character
